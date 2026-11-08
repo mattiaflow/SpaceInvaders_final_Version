@@ -1,0 +1,22 @@
+# File generati da Arduino
+build/
+*.bin
+*.eep
+*.elf
+*.hex
+*.map
+
+# Impostazioni locali di editor e sistema operativo
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Cartelle interne dell'ambiente di lavoro
+.agents/
+.aws/
+.codex/
+
+.pio/
+.vscode/
+*.code-workspace
